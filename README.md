@@ -105,9 +105,9 @@ If you encounter `TypeError: retrieve() got an unexpected keyword argument 'prog
 Here’s a demonstration of how the code works with an example image:
 
 1. **Original Image**:
-   ![Original Image](example_images/original_image.jpg)
+   ![Original Image](inp1.jpg)
 
 2. **Output Image with Transparent Background**:
-   ![Output Image](example_images/output_image.png)
+   ![Output Image](final2.png)
  
 
