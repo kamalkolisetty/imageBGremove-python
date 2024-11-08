@@ -11,8 +11,8 @@ The Image Background Remover takes an input image file, processes it to remove t
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/image-background-remover.git
-    cd image-background-remover
+    git clone https://github.com/kamalkolisetty/imageBGremove-python.git
+     
     ```
 
 2. **Install Dependencies**
