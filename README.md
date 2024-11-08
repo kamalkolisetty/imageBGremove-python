@@ -1,7 +1,4 @@
-Here's a sample README file for your project that removes the background from an image using Python. This README includes sections for project overview, installation, usage, requirements, and troubleshooting.
-
----
-
+ 
 # Image Background Remover
 
 This project removes the background from an image using the `rembg` library in Python and saves the output as a PNG image with transparency.
@@ -95,13 +92,22 @@ If you encounter `TypeError: retrieve() got an unexpected keyword argument 'prog
    - Go to `<your Python path>/lib/site-packages/rembg/sessions/u2net.py`
    - Remove `progressbar=True` from `pooch.retrieve(...)` in the file.
 
-## 📃 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+ 
 ## 🙌 Acknowledgments
 
 - The `rembg` library by [danielgatis](https://github.com/danielgatis/rembg) for the powerful background removal tool.
 - `Pillow` for Python image handling.
 
-## Demonstration
+---
+
+## 🎬 Demonstration
+
+Here’s a demonstration of how the code works with an example image:
+
+1. **Original Image**:
+   ![Original Image](example_images/original_image.jpg)
+
+2. **Output Image with Transparent Background**:
+   ![Output Image](example_images/output_image.png)
+ 
+
